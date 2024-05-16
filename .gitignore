@@ -163,3 +163,5 @@ config.yaml
 properties.yaml
 
 .vscode
+
+.idea
